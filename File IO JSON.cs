@@ -1,5 +1,5 @@
 ﻿using Newtonsoft.Json;
-using System;
+using System;  
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,9 +13,9 @@ namespace File_IO_On_TXT_CSV_And_JSON
 
              var jsonData = new
             {
-                Name = "Sai",
-                Age =22,
-                Location = "Hyderabad"
+                Name = "priyanka",
+                Age =24,
+                Location = "tirupathi"
             };
 
             string FilePath = @"C:\Users\HP\OneDrive\Desktop\RFP(Remap)\File IO On TXT,CSV And JSON\JSON.json";

@@ -1,7 +1,7 @@
 ﻿namespace File_IO_On_TXT_CSV_And_JSON
 {
     internal class Program
-    {
+    {  
         static void Main(string[] args)
         {
             Console.WriteLine("File IO On TEXT DATA ");
